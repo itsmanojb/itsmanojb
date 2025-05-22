@@ -3,7 +3,7 @@
 #### 👨🏻‍💻 About Me 
 Full-stack web developer, Computer Science Engineer, design maverick
 
-- 🔭 Currently working on client's website / blog
+- 🔭 Currently working on office client's projects
 - 🌱 Learning System design & Microservices
 - 🎓 M.Tech in Computer Science
 - 💬 Ask me about UX/UI and Web Development
